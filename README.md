@@ -1,10 +1,9 @@
 # Front-end Developer
 
 ## 📫 How to reach me:
-- LinkedIn: Veranika Miadvedzeva
-- GitHub: Veronchi
-- Telegram: @veronchim
-- Gmail: zhigunova1995@gmail.com
+- **LinkedIn**: Veranika Miadvedzeva
+- **Telegram**: @veronchim
+- **Gmail**: zhigunova1995@gmail.com
 
 ## 🌱 Skills: 
 - HTML
