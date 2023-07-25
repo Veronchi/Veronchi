@@ -1,16 +1,39 @@
-### Hi there 👋
+# Front-end Developer
 
-<!--
-**Veronchi/Veronchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me:
+- LinkedIn: Veranika Miadvedzeva
+- GitHub: Veronchi
+- Telegram: @veronchim
+- Gmail: zhigunova1995@gmail.com
 
-Here are some ideas to get you started:
+## 🌱 Skills: 
+- HTML
+- CSS / SCSS
+- JavaScript
+- TypeScript
+- React
+- Redux Toolkit / RTK Query
+- Axios
+- Express
+- Sequelize
+- PostgreSQL
+- MUI / Mantine
+- Cypress / Testing Library
+- Webpack
+- Yarn / npm
+- Vite
+- Git / GitHub / VS Code
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Courses
+> The Rolling Scopes School, Minsk
+  - Stage 1 - 2. JavaScript/Front-end Development
+  - Sep 2022 - Mar 2023
+  - [Certificate](https://app.rs.school/certificate/otgbpvq9)
+
+> The Rolling Scopes School, Minsk
+  - Stage 3. React
+  - Mar 2023 - Jun 2023
+  - [Certificate](https://app.rs.school/certificate/4f3v5kxt)
+
+## English B1
